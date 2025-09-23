@@ -7,7 +7,11 @@
 			"files": [
 				"C:/Users/xmisa/OneDrive/Documentos/GitHub/SS384/SS384/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/xmisa/OneDrive/Documentos/GitHub/SS384/SS384/Content/Lav1.umap",
-				"C:/Users/xmisa/OneDrive/Documentos/GitHub/SS384/SS384/Content/Blueprints/BP_Enemy1.uasset"
+				"C:/Users/xmisa/OneDrive/Documentos/GitHub/SS384/SS384/Content/Blueprints/BP_Enemy1.uasset",
+				"C:/Users/xmisa/OneDrive/Documentos/GitHub/SS384/SS384/Content/Task/Bt_TaskMoveAirandom.uasset",
+				"C:/Users/xmisa/OneDrive/Documentos/GitHub/SS384/SS384/Content/BTS/Bt_SimpleNPC.uasset",
+				"C:/Users/xmisa/OneDrive/Documentos/GitHub/SS384/SS384/Content/Blueprints/Controller222/Aic_SimpleNPC.uasset",
+				"C:/Users/xmisa/OneDrive/Documentos/GitHub/SS384/SS384/Content/BTS/BB_Simplenpc.uasset"
 			]
 		}
 	]
